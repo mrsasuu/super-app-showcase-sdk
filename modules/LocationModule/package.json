@@ -7,7 +7,7 @@
   "types": "src/index.tsx",
   "scripts": {
     "bump": "node ../../scripts/release.js bump",
-    "publish": "node ../../scripts/release.js publish"
+    "publishPackage": "node ../../scripts/release.js publish"
   },
   "files": [
     "src",

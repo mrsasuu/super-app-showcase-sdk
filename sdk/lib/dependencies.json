@@ -74,7 +74,7 @@
   },
   "@mrsasuu/react-native-location": {
     "name": "@mrsasuu/react-native-location",
-    "version": "0.0.4"
+    "version": "0.0.5"
   },
   "react-native-reanimated": {
     "name": "react-native-reanimated",

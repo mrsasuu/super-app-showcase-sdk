@@ -1,12 +1,12 @@
 {
   "name": "@mrsasuu/super-app-showcase-sdk",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "mrsasuu",
   "description": "Dependency management & utils for the Super App Showcase",
   "license": "MIT",
   "scripts": {
     "bump": "node ../scripts/release.js bump",
-    "publish": "node ../scripts/release.js publish"
+    "publishPackage": "node ../scripts/release.js publish"
   },
   "homepage": "https://github.com/mrsasuu/super-app-showcase-sdk",
   "repository": {
