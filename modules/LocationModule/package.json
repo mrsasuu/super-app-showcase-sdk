@@ -1,9 +1,10 @@
 {
   "name": "@mrsasuu/react-native-location",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Location service TurboModule for React Native",
   "author": "mrsasuu",
-  "main": "src/index.js",
+  "main": "src/index.tsx",
+  "types": "src/index.tsx",
   "scripts": {
     "bump": "node ../../scripts/release.js bump",
     "publish": "node ../../scripts/release.js publish"
